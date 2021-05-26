@@ -74,5 +74,5 @@ reachable, stack allocated variables are automatically free’d when their funct
 - [Understanding allocations - the stack and heap](https://www.youtube.com/watch?v=ZMZpH4yT7M0)
 - [Escape analysis and memory profiling](https://www.youtube.com/watch?v=2557w0qsDV0)
 - [Allocations in Golang](https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d)
+- Increased font size up by 6
 
-- increased font size up by 7 
